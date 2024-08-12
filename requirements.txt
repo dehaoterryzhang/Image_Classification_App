@@ -64,7 +64,7 @@ requests==2.24.0
 s3transfer==0.3.3
 Send2Trash==1.5.0
 six==1.15.0
-streamlit==0.64.0
+streamlit==1.37.0
 terminado==0.8.3
 testpath==0.4.4
 toml==0.10.1
